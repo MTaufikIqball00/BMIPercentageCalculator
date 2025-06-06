@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BMIPercentageCalculator</string>
+    <string name="title">Body Fat Percantage</string>
+    <string name="title2">Percentage</string>
+    <string name="nim">NIM 10122336</string>
+    <string name="nama">Muhammad Taufik Iqbal</string>
+    <string name="bb">Berat Badan</string>
+    <string name="bb_field">Berat Badan (Kg)</string>
+    <string name="tb">Tinggi Badan</string>
+    <string name="tb_field">Tinggi Badan (cm)</string>
+    <string name="usia">Usia</string>
+    <string name="usia_field">Masukan Usia</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="jk_pria">Laki-Laki</string>
+    <string name="jk_perempuan">Perempuan</string>
+    <string name="btn_hitung">Hitung Body Fat Percentage</string>
+    <string name="btn_info_pengembang">Info Pengembang</string>
+    <string name="title_result">Body Fat (%) Result</string>
+    <string name="bmi_result">Nilai BMI Anda:</string>
+    <string name="bfp_result">Nilai BFP Anda:</string>
+    <string name="bmi_category">Kategori BMI:</string>
+    <string name="info_pengembang">Developed By:</string>
+</resources>
